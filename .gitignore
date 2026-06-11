@@ -1,0 +1,39 @@
+# PostgreSQL
+
+*.dump
+*.backup
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Vim / Neovim
+
+*.swp
+*.swo
+*~
+
+# Linux
+
+.DS_Store
+Thumbs.db
+
+# Environment variables
+
+.env
+
+# IDEs
+
+.vscode/
+.idea/
+
+# Python (future integrations)
+
+**pycache**/
+*.pyc
+
