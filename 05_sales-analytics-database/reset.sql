@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS sales CASCADE;
+DROP TABLE IF EXISTS products CASCADE;
+DROP TABLE IF EXISTS categories CASCADE;
+
+\i schema.sql
+\i data.sql
